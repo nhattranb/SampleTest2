@@ -1,4 +1,4 @@
-package question1;
+package main.java.question1;
 
 public abstract class ColoredShape extends Shape {
     private String color;

@@ -1,4 +1,4 @@
-package question1;
+package main.java.question1;
 
 public class TestShapes {
     public static void main(String[] args) {

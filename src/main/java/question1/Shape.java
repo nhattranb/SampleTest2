@@ -1,4 +1,4 @@
-package question1;
+package main.java.question1;
 
 abstract class Shape {
     public abstract double area();
